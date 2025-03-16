@@ -120,7 +120,7 @@ the corresponding loop-closure error. In [98], this data set was used to compare
 @article{LLIO_vs_PyShoe,
   title = {Loose Learned Inertial Odometry},
   author = {Gökhan Çetin and Muhammed Taha Köroğlu},
-  journal = {IEEE Sensors Journal},
+  journal = {Arxiv},
   pages = {823--832},
   number = {1},
   url = {______________},
