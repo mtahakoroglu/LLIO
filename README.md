@@ -62,7 +62,7 @@ pip install xgboost
 
 | Experiment #71 (Test) | Experiment #71 (Test) |
 | :--: | :--: |
-| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_30.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_30.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
+| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_71.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_71.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
 | Experiment #72 (Training) | Experiment #72 (Training) |
 | :--: | :--: |
