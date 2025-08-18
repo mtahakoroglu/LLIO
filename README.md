@@ -110,11 +110,11 @@ the corresponding loop-closure error. In [98], this data set was used to compare
 <p align="justify">If you use the code or dataset in your research, please cite:</p>
 
 ```
-@article{LLIO_vs_PyShoe,
-  title = {Loose Learned Inertial Odometry},
+@article{GCetin2026TubitakJECE,
+  title = {A {P}ioneering {S}tride-Wise {A}nnotated {M}ini-{D}ataset for {G}ait-Driven {L}earning-Based {I}nertial {N}avigation},
   author = {Gökhan Çetin and Muhammed Taha Köroğlu},
   journal = {Arxiv},
-  pages = {823--832},
+  pages = {823--835},
   number = {1},
   url = {______________},
   volume = {1},
