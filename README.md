@@ -20,7 +20,7 @@ conda activate LLIO
 
 <h3>Installing Required Packages</h3>
 
-<p align="justify">Type and enter the following commands in Anaconda PS terminal to install the required packages and libraries to run the associated codes and reproduce the results in the paper. We thank <a href="https://scholar.google.com.tr/citations?user=F2NkKNAAAAAJ&hl=tr">Dr. Ramazan Özgür Doğan</a> for the assistance in setting up the virtual environment before leaving the department of software engineering (Gümüşhane University) and joining <a href="https://u.osu.edu/pcvlab/">PCV Lab., Columbus, OH, USA (The Ohio State University)</a>.</p>
+<p align="justify">Type and enter the following commands in Anaconda PS terminal to install the required packages and libraries to run the associated codes and reproduce the results in the paper. We thank <a href="https://scholar.google.com.tr/citations?user=F2NkKNAAAAAJ&hl=tr">Dr. Ramazan Özgür Doğan</a> for the assistance in setting up the virtual environment</a>.</p>
 
 ```
 conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
@@ -58,103 +58,31 @@ pip install xgboost
 
 <p align="justify">When adaptive ZUPT (PyShoe with LSTM, not with SVM) aided INS is used with our own collected data, the results showed that the adaptive detector is not able to detect all ZV intervals, which means the corresponding strides are missed. To deal with this problem, we made corrections (i.e., manual inclusions of missed ZV intervals and exclusions of non-bipedal-locomotion data such as crawling) in PyShoe dataset after elaborate examination of data plots such as imu time series or 2d spatial trajectory results. Mentioned analysis can be found in the <a href="https://github.com/mtahakoroglu/PyShoe-annotation-expansion-for-LLIO">supplementary repo.</a></p>
 
-<h3>Example Results for Seed #0 (Experiment #51 & all Vicon Room Data (PyShoe) excluded, Experiment #6 included)</h3>
+<h3>Experimental Results</h3>
 
-| Experiment #30 | Experiment #31 |
+| Experiment #71 (Test) | Experiment #71 (Test) |
 | :--: | :--: |
-| <img src="results/figs/exp_30_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_31_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
+| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_30.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_30.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #32 | Experiment #33 |
+| Experiment #72 (Training) | Experiment #72 (Training) |
 | :--: | :--: |
-| <img src="results/figs/exp_32_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_33_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
+| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_72.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_72.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #34 | Experiment #35 |
+| Experiment #73 (Training) | Experiment #73 (Training) |
 | :--: | :--: |
-| <img src="results/figs/exp_34_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_35_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
+| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_73.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_73.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #36 | Experiment #37 |
+| Experiment #74 (Training) | Experiment #74 (Training) |
 | :--: | :--: |
-| <img src="results/figs/exp_36_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_37_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
+| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_74.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_74.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #38 | Experiment #39 |
+| Experiment #75 (Training) | Experiment #75 (Training) |
 | :--: | :--: |
-| <img src="results/figs/exp_38_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_39_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
+| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_75.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_75.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #40 | Experiment #41 |
+| Experiment #76 (Training) | Experiment #76 (Training) |
 | :--: | :--: |
-| <img src="results/figs/exp_40_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_41_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #42 | Experiment #43 |
-| :--: | :--: |
-| <img src="results/figs/exp_42_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_43_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #44 | Experiment #45 |
-| :--: | :--: |
-| <img src="results/figs/exp_44_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_45_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #46 | Experiment #47 |
-| :--: | :--: |
-| <img src="results/figs/exp_46_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_47_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #48 | Experiment #49 |
-| :--: | :--: |
-| <img src="results/figs/exp_48_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_49_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #50 | Experiment #51 |
-| :--: | :--: |
-| <img src="results/figs/exp_50_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_51_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #52 | Experiment #53 |
-| :--: | :--: |
-| <img src="results/figs/exp_52_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_53_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #54 | Experiment #55 |
-| :--: | :--: |
-| <img src="results/figs/exp_54_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_55_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #56 | Experiment #57 |
-| :--: | :--: |
-| <img src="results/figs/exp_56_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_57_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #58 | Experiment #59 |
-| :--: | :--: |
-| <img src="results/figs/exp_58_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_59_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #60 | Experiment #61 |
-| :--: | :--: |
-| <img src="results/figs/exp_60_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_61_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #62 | Experiment #63 |
-| :--: | :--: |
-| <img src="results/figs/exp_62_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_63_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #64 | Experiment #65 |
-| :--: | :--: |
-| <img src="results/figs/exp_64_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_65_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #66 | Experiment #67 |
-| :--: | :--: |
-| <img src="results/figs/exp_66_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_67_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #68 | Experiment #69 |
-| :--: | :--: |
-| <img src="results/figs/exp_68_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_69_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #70 | Experiment #71 |
-| :--: | :--: |
-| <img src="results/figs/exp_70_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_71_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #72 | Experiment #73 |
-| :--: | :--: |
-| <img src="results/figs/exp_72_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_73_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #74 | Experiment #75 |
-| :--: | :--: |
-| <img src="results/figs/exp_74_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_75_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
-
-| Experiment #76 | Experiment #77 |
-| :--: | :--: |
-| <img src="results/figs/exp_76_seed_0.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/exp_66_seed_77.png" alt="an example trajectory result for LLIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> |
+| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_76.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_76.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
 <!--
 <h3>Adaptive and Robust ZUPT Detection Studies</h3>
