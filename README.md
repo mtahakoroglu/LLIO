@@ -60,29 +60,29 @@ pip install xgboost
 
 <h3>Experimental Results</h3>
 
-| Experiment #71 (Test) | Experiment #71 (Test) |
-| :--: | :--: |
-| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_71.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_71.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
+| Experiment #71 (Test) Feature-based LSTM | Experiment #71 (Test) Feature-based XGB | Experiment #71 (Test) Hybrid |
+| :--: | :--: | :--: |
+| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_71.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_71.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_71.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #72 (Training) | Experiment #72 (Training) |
-| :--: | :--: |
-| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_72.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_72.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
+| Experiment #72 (Test) Feature-based LSTM | Experiment #72 (Test) Feature-based XGB | Experiment #72 (Test) Hybrid |
+| :--: | :--: | :--: |
+| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_72.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_72.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_72.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #73 (Training) | Experiment #73 (Training) |
-| :--: | :--: |
-| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_73.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_73.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
+| Experiment #73 (Test) Feature-based LSTM | Experiment #73 (Test) Feature-based XGB | Experiment #73 (Test) Hybrid |
+| :--: | :--: | :--: |
+| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_73.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_73.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_73.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #74 (Training) | Experiment #74 (Training) |
-| :--: | :--: |
-| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_74.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_74.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
+| Experiment #74 (Test) Feature-based LSTM | Experiment #74 (Test) Feature-based XGB | Experiment #74 (Test) Hybrid |
+| :--: | :--: | :--: |
+| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_74.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_74.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_74.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #75 (Training) | Experiment #75 (Training) |
-| :--: | :--: |
-| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_75.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_75.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
+| Experiment #75 (Test) Feature-based LSTM | Experiment #75 (Test) Feature-based XGB | Experiment #75 (Test) Hybrid |
+| :--: | :--: | :--: |
+| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_75.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_75.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_75.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #76 (Training) | Experiment #76 (Training) |
-| :--: | :--: |
-| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_76.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_76.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
+| Experiment #76 (Test) Feature-based LSTM | Experiment #76 (Test) Feature-based XGB | Experiment #76 (Test) Hybrid |
+| :--: | :--: | :--: |
+| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_76.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_76.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_76.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
 <!--
 <h3>Adaptive and Robust ZUPT Detection Studies</h3>
