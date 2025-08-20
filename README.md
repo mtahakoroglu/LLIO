@@ -64,23 +64,23 @@ pip install xgboost
 | :--: | :--: | :--: |
 | <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_71.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_71.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_71.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #72 (Test) Feature-based LSTM | Experiment #72 (Test) Feature-based XGB | Experiment #72 (Test) Hybrid |
+| Experiment #72 (Training) Feature-based LSTM | Experiment #72 (Training) Feature-based XGB | Experiment #72 (Training) Hybrid |
 | :--: | :--: | :--: |
 | <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_72.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_72.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_72.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #73 (Test) Feature-based LSTM | Experiment #73 (Test) Feature-based XGB | Experiment #73 (Test) Hybrid |
+| Experiment #73 (Training) Feature-based LSTM | Experiment #73 (Training) Feature-based XGB | Experiment #73 (Training) Hybrid |
 | :--: | :--: | :--: |
 | <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_73.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_73.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_73.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #74 (Test) Feature-based LSTM | Experiment #74 (Test) Feature-based XGB | Experiment #74 (Test) Hybrid |
+| Experiment #74 (Training) Feature-based LSTM | Experiment #74 (Training) Feature-based XGB | Experiment #74 (Training) Hybrid |
 | :--: | :--: | :--: |
 | <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_74.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_74.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_74.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #75 (Test) Feature-based LSTM | Experiment #75 (Test) Feature-based XGB | Experiment #75 (Test) Hybrid |
+| Experiment #75 (Training) Feature-based LSTM | Experiment #75 (Training) Feature-based XGB | Experiment #75 (Training) Hybrid |
 | :--: | :--: | :--: |
 | <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_75.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_75.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_75.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #76 (Test) Feature-based LSTM | Experiment #76 (Test) Feature-based XGB | Experiment #76 (Test) Hybrid |
+| Experiment #76 (Training) Feature-based LSTM | Experiment #76 (Training) Feature-based XGB | Experiment #76 (Training) Hybrid |
 | :--: | :--: | :--: |
 | <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_76.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_76.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_76.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
