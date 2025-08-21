@@ -64,25 +64,49 @@ pip install xgboost
 | :--: | :--: | :--: |
 | <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_71.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_71.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_71.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
+| Experiment #71 (Test) Window-based LSTM | Experiment #71 (Test) Window-based CNN | Experiment #71 (Test) Window-based Transformer |
+| :--: | :--: | :--: |
+| <img src="results/figs/window-based/window_based_lstm_exp_71.png" alt="an example trajectory result for window-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_cnn_exp_71.png" alt="an example trajectory result for window-based CNN vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_transformer_exp_71.png" alt="an example trajectory result for window-based transformer vs. PyShoe (LSTM)" width="500" height="auto"> |
+
 | Experiment #72 (Training) Feature-based LSTM | Experiment #72 (Training) Feature-based XGB | Experiment #72 (Training) Hybrid |
 | :--: | :--: | :--: |
 | <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_72.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_72.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_72.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
+
+| Experiment #72 (Training) Window-based LSTM | Experiment #72 (Training) Window-based CNN | Experiment #72 (Training) Window-based Transformer |
+| :--: | :--: | :--: |
+| <img src="results/figs/window-based/window_based_lstm_exp_72.png" alt="an example trajectory result for window-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_cnn_exp_72.png" alt="an example trajectory result for window-based CNN vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_transformer_exp_72.png" alt="an example trajectory result for window-based transformer vs. PyShoe (LSTM)" width="500" height="auto"> |
 
 | Experiment #73 (Training) Feature-based LSTM | Experiment #73 (Training) Feature-based XGB | Experiment #73 (Training) Hybrid |
 | :--: | :--: | :--: |
 | <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_73.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_73.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_73.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
+| Experiment #73 (Training) Window-based LSTM | Experiment #73 (Training) Window-based CNN | Experiment #73 (Training) Window-based Transformer |
+| :--: | :--: | :--: |
+| <img src="results/figs/window-based/window_based_lstm_exp_73.png" alt="an example trajectory result for window-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_cnn_exp_73.png" alt="an example trajectory result for window-based CNN vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_transformer_exp_73.png" alt="an example trajectory result for window-based transformer vs. PyShoe (LSTM)" width="500" height="auto"> |
+
 | Experiment #74 (Training) Feature-based LSTM | Experiment #74 (Training) Feature-based XGB | Experiment #74 (Training) Hybrid |
 | :--: | :--: | :--: |
 | <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_74.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_74.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_74.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
+
+| Experiment #74 (Training) Window-based LSTM | Experiment #74 (Training) Window-based CNN | Experiment #74 (Training) Window-based Transformer |
+| :--: | :--: | :--: |
+| <img src="results/figs/window-based/window_based_lstm_exp_74.png" alt="an example trajectory result for window-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_cnn_exp_74.png" alt="an example trajectory result for window-based CNN vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_transformer_exp_74.png" alt="an example trajectory result for window-based transformer vs. PyShoe (LSTM)" width="500" height="auto"> |
 
 | Experiment #75 (Training) Feature-based LSTM | Experiment #75 (Training) Feature-based XGB | Experiment #75 (Training) Hybrid |
 | :--: | :--: | :--: |
 | <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_75.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_75.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_75.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
+| Experiment #75 (Training) Window-based LSTM | Experiment #75 (Training) Window-based CNN | Experiment #75 (Training) Window-based Transformer |
+| :--: | :--: | :--: |
+| <img src="results/figs/window-based/window_based_lstm_exp_75.png" alt="an example trajectory result for window-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_cnn_exp_75.png" alt="an example trajectory result for window-based CNN vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_transformer_exp_75.png" alt="an example trajectory result for window-based transformer vs. PyShoe (LSTM)" width="500" height="auto"> |
+
 | Experiment #76 (Training) Feature-based LSTM | Experiment #76 (Training) Feature-based XGB | Experiment #76 (Training) Hybrid |
 | :--: | :--: | :--: |
 | <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_76.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_76.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_76.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
+
+| Experiment #76 (Training) Window-based LSTM | Experiment #76 (Training) Window-based CNN | Experiment #76 (Training) Window-based Transformer |
+| :--: | :--: | :--: |
+| <img src="results/figs/window-based/window_based_lstm_exp_76.png" alt="an example trajectory result for window-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_cnn_exp_76.png" alt="an example trajectory result for window-based CNN vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_transformer_exp_76.png" alt="an example trajectory result for window-based transformer vs. PyShoe (LSTM)" width="500" height="auto"> |
 
 <!--
 <h3>Adaptive and Robust ZUPT Detection Studies</h3>
@@ -113,8 +137,8 @@ the corresponding loop-closure error. In [98], this data set was used to compare
 @article{GCetin2026TubitakJECE,
   title = {A {P}ioneering {S}tride-Wise {A}nnotated {M}ini-{D}ataset for {G}ait-Driven {L}earning-Based {I}nertial {N}avigation},
   author = {Gökhan Çetin and Muhammed Taha Köroğlu},
-  journal = {Arxiv},
-  pages = {823--835},
+  journal = {Turkish Journal of Electrical Engineering and Computer Sciences},
+  pages = {823--837},
   number = {1},
   url = {______________},
   volume = {1},
