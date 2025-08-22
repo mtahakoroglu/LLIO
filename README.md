@@ -108,6 +108,16 @@ pip install xgboost
 | :--: | :--: | :--: |
 | <img src="results/figs/window-based/window_based_lstm_exp_76.png" alt="an example trajectory result for window-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_cnn_exp_76.png" alt="an example trajectory result for window-based CNN vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_transformer_exp_76.png" alt="an example trajectory result for window-based transformer vs. PyShoe (LSTM)" width="500" height="auto"> |
 
+
+
+| Experiment #78 (Training) Feature-based LSTM | Experiment #78 (Training) Feature-based XGB | Experiment #78 (Training) Hybrid |
+| :--: | :--: | :--: |
+| <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_78.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/XGB/XGB_exp_78.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_78.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
+
+| Experiment #78 (Training) Window-based LSTM | Experiment #78 (Training) Window-based CNN | Experiment #78 (Training) Window-based Transformer |
+| :--: | :--: | :--: |
+| <img src="results/figs/window-based/window_based_lstm_exp_78.png" alt="an example trajectory result for window-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_cnn_exp_78.png" alt="an example trajectory result for window-based CNN vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_transformer_exp_78.png" alt="an example trajectory result for window-based transformer vs. PyShoe (LSTM)" width="500" height="auto"> |
+
 <!--
 <h3>Adaptive and Robust ZUPT Detection Studies</h3>
 
