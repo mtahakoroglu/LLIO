@@ -85,11 +85,11 @@ pip install xgboost
 | <img src="results/figs/window-based/window_based_cnn_exp_63.png" alt="an example trajectory result for window-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_transformer_exp_63.png" alt="an example trajectory result for window-based CNN vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_63.png" alt="an example trajectory result for window-based transformer vs. PyShoe (LSTM)" width="500" height="auto"> |
 
 
-| Experiment #71 (Test) Feature-based XGB | Experiment #71 (Test) Feature-based LSTM | Experiment #71 (Test) Window-Based LSTM |
+| Experiment #71 (Training) Feature-based XGB | Experiment #71 (Training) Feature-based LSTM | Experiment #71 (Training) Window-Based LSTM |
 | :--: | :--: | :--: |
 | <img src="results/figs/XGB/XGB_exp_71.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_71.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_lstm_exp_71.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #71 (Test) Window-based CNN | Experiment #71 (Test) Window-based Transformer | Experiment #71 (Test) Hybrid |
+| Experiment #71 (Training) Window-based CNN | Experiment #71 (Training) Window-based Transformer | Experiment #71 (Training) Hybrid |
 | :--: | :--: | :--: |
 | <img src="results/figs/window-based/window_based_cnn_exp_71.png" alt="an example trajectory result for window-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_transformer_exp_71.png" alt="an example trajectory result for window-based CNN vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_71.png" alt="an example trajectory result for window-based transformer vs. PyShoe (LSTM)" width="500" height="auto"> |
 
@@ -141,11 +141,11 @@ pip install xgboost
 | :--: | :--: | :--: |
 | <img src="results/figs/window-based/window_based_cnn_exp_77.png" alt="an example trajectory result for window-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_transformer_exp_77.png" alt="an example trajectory result for window-based CNN vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_77.png" alt="an example trajectory result for window-based transformer vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #78 (Training) Feature-based XGB | Experiment #78 (Training) Feature-based LSTM | Experiment #78 (Training) Window-Based LSTM |
+| Experiment #78 (Test) Feature-based XGB | Experiment #78 (Test) Feature-based LSTM | Experiment #78 (Test) Window-Based LSTM |
 | :--: | :--: | :--: |
 | <img src="results/figs/XGB/XGB_exp_78.png" alt="an example trajectory result for feature-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/feature-based-LSTM/feature_based_lstm_exp_78.png" alt="an example trajectory result for feature-based XGB vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_lstm_exp_78.png" alt="an example trajectory result for hybrid vs. PyShoe (LSTM)" width="500" height="auto"> |
 
-| Experiment #78 (Training) Window-based CNN | Experiment #78 (Training) Window-based Transformer | Experiment #78 (Training) Hybrid |
+| Experiment #78 (Test) Window-based CNN | Experiment #78 (Test) Window-based Transformer | Experiment #78 (Test) Hybrid |
 | :--: | :--: | :--: |
 | <img src="results/figs/window-based/window_based_cnn_exp_78.png" alt="an example trajectory result for window-based LSTM vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/window-based/window_based_transformer_exp_78.png" alt="an example trajectory result for window-based CNN vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/hybrid/hybrid_exp_78.png" alt="an example trajectory result for window-based transformer vs. PyShoe (LSTM)" width="500" height="auto"> |
 
