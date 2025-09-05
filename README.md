@@ -55,7 +55,7 @@
 
 <h3>Experimental Results</h3>
 
-<p align="justify">Please click on <a href="results/figs/training">training-data results</a> to see them. Training data is 80% and validation data 20%, whereas the test data are standalone experiments. Below are the test results.</p>
+<p align="justify">Please click on <a href="https://github.com/mtahakoroglu/gait-driven-learning-based-inertial-odometry/tree/main/results/figs/training">training-data results</a> to see them. Training data is 80% and validation data 20%, whereas the test data are standalone experiments. Below are the test results.</p>
 
 | Experiment #60 (Testing) GDLBIO (LSTM) | Experiment #60 (Testing) GDLBIO (CNN) | Experiment #60 (Testing) GDLBIO (Transformer) |
 | :--: | :--: | :--: |
@@ -81,7 +81,6 @@
 }
 </code></pre>
 
-
 <!--
 <h3>Adaptive and Robust ZUPT Detection Studies</h3>
 
@@ -102,23 +101,6 @@ the corresponding loop-closure error. In [98], this data set was used to compare
 <p align="justify">In [1] it says: "Publicly Mixed-Motion Dataset (referring to PyShoe): This dataset consists of the VICON dataset, the Hallway dataset, and the stairs-climbing dataset. The VICON dataset is collected by a LORD Micro-Strain 3DM-GX3-25 IMU at 200 Hz. As pointed out in PyShoe, it consists of 60 experiments, which not only includes walking and running modes but also stair-climbing and crawling modes. Both the Hallway dataset and the stairs-climbing dataset are collected by a Vector Nav VN−100 IMU at 200 Hz. The Hallway dataset consists of 38 motion experiments, which includes walking, running, and combined motion modes. The ground truth of the Hallway dataset is obtained by measuring the locations of the flat markers on the floor. A handheld trigger is given to record the current location versus the known marker location. In the stairs-climbing dataset, only the heights of trajectories are recorded."</p>
 <p align="justify">In [1], PyShoe dataset is used to detect the ZVPs for the proposed IGLRT detector, in which not only the ground-truth position information is provided but also the ground-truth binary zero-velocity labels (moving versus stationary) are also provided. Since the trajectories of trials in the VICON dataset are very short, the Hallway dataset is also used to evaluate the performance of the proposed IGLRT detector.</p>
 -->
-
-<h2>Citation</h2>
-
-<p align="justify">If you use the code or dataset in your research, please cite:</p>
-
-```
-@article{GCetin2026TJofEEandCS,
-  title = {A {S}tride-Wise {A}nnotated {M}ini-{D}ataset for {G}ait-Driven {L}earning-Based {I}nertial {N}avigation},
-  author = {Gökhan Çetin and Muhammed Taha Köroğlu},
-  journal = {Turkish Journal of Electrical Engineering and Computer Sciences},
-  pages = {823--837},
-  number = {1},
-  url = {______________},
-  volume = {1},
-  year = {2026}
-}
-```
 
 <!--
 <h3>REFERENCES</h3>
