@@ -65,6 +65,10 @@
 | :--: | :--: | :--: |
 | <img src="results/figs/SensorConnectData_79_GDLBIO_LSTM.png" alt="an example trajectory result for GDLBIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/SensorConnectData_79_GDLBIO_CNN.png" alt="an example trajectory result for GDLBIO (CNN) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/SensorConnectData_79_GDLBIO_Transformer.png" alt="an example trajectory result for GDLBIO (Transformer) vs. PyShoe (LSTM)" width="500" height="auto"> |
 
+| Experiment #82 (Testing) GDLBIO (LSTM) | Experiment #82 (Testing) GDLBIO (CNN) | Experiment #82 (Testing) GDLBIO (Transformer) |
+| :--: | :--: | :--: |
+| <img src="results/figs/SensorConnectData_82_GDLBIO_LSTM.png" alt="an example trajectory result for GDLBIO (LSTM) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/SensorConnectData_82_GDLBIO_CNN.png" alt="an example trajectory result for GDLBIO (CNN) vs. PyShoe (LSTM)" width="500" height="auto"> | <img src="results/figs/SensorConnectData_82_GDLBIO_Transformer.png" alt="an example trajectory result for GDLBIO (Transformer) vs. PyShoe (LSTM)" width="500" height="auto"> |
+
 <h2>Citation</h2>
 
 <p align="justify">If you use the code or dataset in your research, please cite:</p>
